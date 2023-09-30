@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
-	<!-- _________________________ Application Settings _________________________ -->
+	<!-- __________ª_______________ Application Settings _________________________ -->
 
 	<app title="Voiid Chronicles" file="Voiid Chronicles" packageName="com.leather128.funkin" package="com.leather128.funkin" main="Main" version="0.4.2 - v2" company="leather128"/>
 
